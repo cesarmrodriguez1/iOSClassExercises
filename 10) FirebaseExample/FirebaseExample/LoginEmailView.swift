@@ -17,8 +17,7 @@ struct LoginEmailView: View {
             DiscardView()
                 .padding(.top, 8)
             Group {
-                Text("👋 Bienvenido de nuevo a")
-                Text("SwiftBeta")
+                Text("Welcome to this New App")
                     .bold()
                     .underline()
             }
